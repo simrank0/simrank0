@@ -4,7 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simrank0&label=Profile%20views&color=0e75b6&style=flat" alt="simrank0" /> </p>
 
-- 🔭 I’m currently working with **Paytm Money** as an **Backend Developer Intern** and will soon be joining **Palo Alto Networks** after graduating in 2022.
+- 🔭 I’m currently working with **Palo Alto Networks** as a software engineer since I graduated from Amity University in 2022.
+
+- 🥇 I've previously worked with **Paytm Money** as an **Backend Developer Intern** and learned quite a lot about engineering side of trading 📊 .
 
 - 🌱 I’m currently exploring **CP**, It's been fun!
 
