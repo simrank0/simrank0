@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working with **Microsoft** as a software engineer.
 
-- 🥇 I've worked with **Palo Alto Networks** as a backend engineer and worked in security domain for SAAS apps. I've also interned with **Paytm Money** and learned quite a lot about engineering side of trading 📊.
+- 🥇 I've worked with **Palo Alto Networks** as a backend engineer and contributed in security domain for SAAS apps. I've also interned with **Paytm Money** and learned quite a lot about engineering side of trading 📊.
 
 - 🌱 I’m currently exploring **CP**, It's been fun!
 
