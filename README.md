@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simrank0&label=Profile%20views&color=0e75b6&style=flat" alt="simrank0" /> </p>
 
-- 🔭 I’m currently working with **Palo Alto Networks** as a software engineer since I graduated from Amity University in 2022.
+- 🔭 I’m currently working with **Microsoft** as a software engineer.
 
-- 🥇 I've previously worked with **Paytm Money** as an **Backend Developer Intern** and learned quite a lot about engineering side of trading 📊 .
+- 🥇 I've worked with **Palo Alto Networks** as a backend engineer and worked in security domain for SAAS apps. I've also interned with **Paytm Money** and learned quite a lot about engineering side of trading 📊.
 
 - 🌱 I’m currently exploring **CP**, It's been fun!
 
